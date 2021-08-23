@@ -2,7 +2,7 @@
 “ Bug is bug. Lesser, greater, middling makes no difference. The degree is arbitary. The definition’s blurred. If I’m to choose between one bug and another I’d rather not choose at all. ” 
 </p>
 <p align="right">
-<i>Geralt of rivia (Nerver said that)</>
+<i>Geralt of Rivia (Nerver said that)</>
 </p>
 
 <!--
